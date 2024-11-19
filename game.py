@@ -7,7 +7,7 @@ def display_portfolio():
     st.write("Welcome to my portfolio!")
     st.write("I'm excited to share my projects and experiences with you.")
     st.write("About me:")
-    st.write("Myself Ganga Gowri from Btech IT")
+    st.write("Myself Madhan prasad from Btech IT")
     st.write("Highly motivated and detail-oriented individual with a passion for IoT.")
     st.write("Skills:")
     st.write("* Python")
